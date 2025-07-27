@@ -15,5 +15,10 @@
 .DS_Store
 .prettierignore
 node_modules
-design
+# Avoid uploading local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 *.json
