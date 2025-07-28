@@ -1,6 +1,4 @@
 
-
-
 # frontend-mentor-challenge
 
 ## Table of contents
